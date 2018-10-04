@@ -13,12 +13,12 @@
 
 ## Usage
 
-```
+```shell
 # Only update all the things
-`$ kymsu`
+$ kymsu
 
 # With cleanup after updates
-`$ kymsu cleanup`
+$ kymsu cleanup
 ```
 
 ## Plugins system
